@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'd29f04a6-19df-4206-92df-1c24b7e9cf09'
 
   # Web app name
-  webAppName: 'sample_java'
+  webAppName: 'devglobant01'
 
   # Environment name
   environmentName: 'test'
