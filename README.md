@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/aravindch8/GLOBANT/_apis/build/status/aravindch8.pipelines-java?branchName=master)](https://dev.azure.com/aravindch8/GLOBANT/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
